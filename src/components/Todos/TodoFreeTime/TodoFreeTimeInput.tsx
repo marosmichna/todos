@@ -1,7 +1,6 @@
 import TextInput from "../../TextInput/TextInput";
 import { useForm } from "react-hook-form";
 import * as TodosApi from "../../../api_network/todos_api";
-import { HomeTodo } from "../../../models/homeTodo";
 import { FreeTodoInput } from "../../../api_network/todos_api";
 import { FreeTodo } from "../../../models/freeTodo";
 
